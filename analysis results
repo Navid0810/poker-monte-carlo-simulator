@@ -1,0 +1,47 @@
+Equity Comparisons:
+
+hero AA villain KK: equity = 0.82633
+hero AA villain QQ: equity = 0.822265
+hero QQ villain AKs:  equity = 0.536285
+hero JJ villain AQs: equity = 0.53897
+hero 76s villain AA: equity = 0.23153
+hero T9s villain KK: equity = 0.21761
+hero 72o villain AA: equity = 0.11701
+hero AKo villain AKs equity = 0.474965
+
+Hand Type Frequencies
+
+  From Simulation:
+
+    0 17.422
+    1 43.772
+    2 23.45
+    3 4.8629999999999995
+    4 4.629
+    5 3.032
+    6 2.636
+    7 0.17099999999999999
+    8 0.025
+  
+  Compared to Known Probabilities:
+  
+    0 17.4
+    1 43.8
+    2 23.5
+    3 4.83
+    4 4.62
+    5 3.03
+    6 2.6
+    7 0.168
+    8 0.0311
+
+Where,
+0 - High Card
+1 - One Pair
+2 - Two Pair
+3 - Three of a Kind
+4 - Straight (excluding Royal Flush & Straight Flush)
+5 - Flush (excluding Royal Flush & Straight Flush)
+6 - Full House
+7 - Four of a Kind
+8 - Straight Flush & Royal Flush
